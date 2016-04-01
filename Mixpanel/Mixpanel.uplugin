@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Mixpanel",
+	"Description": "Mixpanel is a business analytics service and company. It tracks user interactions with web and mobile applications and offers tools for targeted communication with them.",
+	"Category": "Analytics",
+	"CreatedBy": "Black Wing Foundation",
+	"CreatedByURL": "bwf-game.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "Mixpanel",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+		}
+	]
+}
